@@ -1,0 +1,28 @@
+# this is an auto generated file. This will be overwritten
+subscription OnCreateLead {
+  onCreateLead {
+    id
+    name
+    email
+    createdAt
+    updatedAt
+  }
+}
+subscription OnUpdateLead {
+  onUpdateLead {
+    id
+    name
+    email
+    createdAt
+    updatedAt
+  }
+}
+subscription OnDeleteLead {
+  onDeleteLead {
+    id
+    name
+    email
+    createdAt
+    updatedAt
+  }
+}
